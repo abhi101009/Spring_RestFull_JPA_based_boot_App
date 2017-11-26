@@ -1,0 +1,7 @@
+com\aminfo\utils\exceptionHandler\ExceptionController.class
+com\aminfo\service\UsersService.class
+com\aminfo\dao\generic\impl\JPAServiceProvider.class
+com\aminfo\utils\exceptionHandler\GenericException.class
+com\aminfo\utils\exceptionHandler\ExceptionMapper.class
+com\aminfo\utils\PersistanceConfiguration.class
+com\aminfo\service\impl\UsersServiceImpl.class
